@@ -1,0 +1,15 @@
+.site-footer .footer-container {
+  max-width: 1140px;
+  margin: 0 auto;
+
+  .social-and-legal {
+    .legal ul {
+      column-count: 1;
+      text-align: center;
+
+      li{
+        display: inline-block;
+      }
+    }
+  }
+}

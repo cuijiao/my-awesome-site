@@ -1,0 +1,22 @@
+header{
+  .main-logo{
+    line-height: 60px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 210px;
+  }
+
+  .header-nav{
+    margin: -60px auto 0;
+    width: 480px;
+
+    a {
+      display: inline-block;
+      font-size: 14px;
+      color: #333f48;
+      line-height: 53px;
+      padding: 0 16px;
+      border-top: solid 3px #fff;
+    }
+  }
+}
