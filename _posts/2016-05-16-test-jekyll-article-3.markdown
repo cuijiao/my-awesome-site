@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Test Jekyll Article 3!"
 date:   2016-05-16 10:58:37 +0800
 categories: test jekyll
