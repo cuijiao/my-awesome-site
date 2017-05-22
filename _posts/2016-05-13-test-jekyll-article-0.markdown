@@ -1,10 +1,10 @@
 ---
+title: Test Jekyll Article 0!
+date: 2016-05-13 02:58:37 Z
+categories:
+- latest-news
 layout: post
-title: 'Test Jekyll Article 0!'
-date: '2016-05-13 10:58:37 +0800'
-categories: latest-news
 ---
-
 
 This is the content edit in cloudcannon!&nbsp;
 
