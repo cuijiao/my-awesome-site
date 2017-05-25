@@ -25,4 +25,5 @@ exclude:
 - Gemfile
 - Gemfile.lock
 prose:
+  rooturl: '_posts'
   media: img
