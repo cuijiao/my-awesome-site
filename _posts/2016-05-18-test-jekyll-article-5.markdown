@@ -1,6 +1,6 @@
 ---
 title: Test Jekyll Article 5!
-date: {}
+date: 2016-05-18 02:58:37 Z
 categories:
   - investing
 layout: page
