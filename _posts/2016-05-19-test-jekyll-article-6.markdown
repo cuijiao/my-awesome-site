@@ -3,7 +3,7 @@ title: Test Jekyll Article 6!
 date: 2016-05-19 02:58:37 Z
 published: false
 categories:
-  - investing
+- investing
 layout: page
 ---
 
