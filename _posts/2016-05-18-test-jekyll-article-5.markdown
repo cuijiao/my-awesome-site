@@ -1,10 +1,12 @@
 ---
 title: Test Jekyll Article 5!
-date: 2016-05-18 02:58:37 Z
+date: {}
 categories:
-- investing
+  - investing
 layout: page
+published: true
 ---
+![Screen Shot 2017-05-01 at 5.21.03 PM.png]({{site.baseurl}}/img/Screen Shot 2017-05-01 at 5.21.03 PM.png)
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
