@@ -19,8 +19,13 @@ github_username: jekyll
 plugins_dir: [jekyll-admin]
 
 markdown: kramdown
+
 gems:
 - jekyll-feed
+
 exclude:
 - Gemfile
 - Gemfile.lock
+
+prose:
+  media: 'img'
